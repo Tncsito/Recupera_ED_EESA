@@ -1,0 +1,15 @@
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\bin\Debug\net6.0\RecuperacionG_ED_EESA_Erick.exe
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\bin\Debug\net6.0\RecuperacionG_ED_EESA_Erick.deps.json
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\bin\Debug\net6.0\RecuperacionG_ED_EESA_Erick.runtimeconfig.json
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\bin\Debug\net6.0\RecuperacionG_ED_EESA_Erick.dll
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\bin\Debug\net6.0\RecuperacionG_ED_EESA_Erick.pdb
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\RecuperacionG_ED_EESA_Erick.csproj.AssemblyReference.cache
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\RecuperacionG_ED_EESA_Erick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\RecuperacionG_ED_EESA_Erick.AssemblyInfoInputs.cache
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\RecuperacionG_ED_EESA_Erick.AssemblyInfo.cs
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\RecuperacionG_ED_EESA_Erick.csproj.CoreCompileInputs.cache
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\RecuperacionG_ED_EESA_Erick.dll
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\refint\RecuperacionG_ED_EESA_Erick.dll
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\RecuperacionG_ED_EESA_Erick.pdb
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\RecuperacionG_ED_EESA_Erick.genruntimeconfig.cache
+C:\Users\cd19\Desktop\RecuperacionG_ED_EESA_Erick\obj\Debug\net6.0\ref\RecuperacionG_ED_EESA_Erick.dll
